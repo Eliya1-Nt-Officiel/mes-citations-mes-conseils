@@ -5,7 +5,7 @@
 Toutes les œuvres présentes dans ce dépôt (citations, poèmes, conseils, textes, etc.) sont des créations originales protégées par le droit d’auteur ©.
 
 📅 Date de publication : Juin 2025  
-✍️ Auteur : [Eliya Nt]
+✍️ Auteur : Eliya Nt
 
 Il est strictement interdit de :
 - Copier ou réutiliser ces textes sans autorisation
