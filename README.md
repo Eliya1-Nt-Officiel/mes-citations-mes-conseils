@@ -30,7 +30,7 @@ Ajoute un fichier par création.
 🛡️ Pour me contacter
 Tu veux me poser une question ou me demander l'autorisation d'utiliser un texte ?  
 Tu peux me contacter ici :
-- 📱 WhatsApp : [Clique ici](:https://wa.me/+243995318754)
+- 📱 WhatsApp : [Clique Ici](https://wa.me/+243995318754)
 - 📸 Instagram : [@eliya_nt_offiiel]( https://instagram.com/eliya_nt_officiel)
 - 📘 Facebook : [eliya ntabala octavius]( https://www.facebook.com/eliya.ntabala.octavius3)
 
