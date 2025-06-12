@@ -1,49 +1,33 @@
 ![Nombre de vues](https://komarev.com/ghpvc/?username=Eliya1-Nt-Officiel&color=blue)
 
+✨ Mes citations, poèmes et conseils
+
+Bienvenue sur mon dépôt GitHub officiel !  
+Ici, je partage mes pensées profondes, textes inspirants, citations originales et conseils de vie, écrits avec sincérité et émotion.
+
+✍️ Exemple de texte
+
+> _« Mon silence est une tempête que personne n'entend. »_  
+> © 2025 Eliya1-Nt-Officiel. Tous droits réservés.
+
+📌 Pourquoi ce dépôt ?
+
+🗓️ Chaque texte est horodaté automatiquement sur GitHub, ce qui constitue une preuve officielle de création.  
+📜 Tous les contenus sont protégés par le droit d’auteur dès leur publication.
+
 ⚠️ Avertissement sur les droits d’auteur
 
-Toutes les œuvres présentes dans ce dépôt (citations, poèmes, conseils, textes, etc.) sont des créations originales protégées par le droit d’auteur ©.
+Toutes les œuvres présentes ici sont des créations originales.  
+Il est strictement interdit de :
+
+- Reproduire, copier ou redistribuer ces textes sans autorisation
+- Les publier ailleurs en se les attribuant
+- Les exploiter commercialement sans accord écrit
 
 📅 Date de publication : Juin 2025  
-✍️ Auteur : Eliya Nt
+✍️ Auteur : Eliya1-Nt-Officiel ( vrai nom Eliya Ntabala)
 
-Il est strictement interdit de :
-- Copier ou réutiliser ces textes sans autorisation
-- Les publier sur d'autres plateformes en se les attribuant
-- Les exploiter à des fins commerciales sans accord écrit
-
-Tout usage non autorisé pourra entraîner des poursuites pour violation du droit d’auteur.
-
-📚 Mes Citations & Conseils
-
-Bienvenue sur mon coin d’inspiration !  
-Ici, tu trouveras mes citations originales, poèmes et conseils de vie, tous écrits et partagés avec passion.
-
-✍️ Auteur
-
-Eliya1‑Nt‑Officiel (alias Eliya Nt)
-
-Toutes les œuvres publiées ici sont protégées par mes droits d’auteur.
-
-🔐 Protection des textes
-
-Chaque fichier contient :
-- Le texte lui-même (citation, poème, conseil),
-- © 2025 Eliya1‑Nt‑Officiel.  
-  Tous droits réservés.
-- Une mention claire :  
-  *Aucune reproduction, diffusion ou modification n’est autorisée sans ma permission écrite.*
-
-📂 Organisation
-
-Fichiers disponibles :
-- citation‑X.txt → citations inspirantes.
-- poeme‑Y.txt → mes poèmes.
-- conseil‑Z.txt → mes conseils de vie.
-
-Ajoute un fichier par création.
-
-🛡️ Pour me contacter
+🛡️ Protection : Droit d’auteur automatique (article L111-1 du Code de la propriété intellectuelle – France)
 Tu veux me poser une question ou me demander l'autorisation d'utiliser un texte ?  
 Tu peux me contacter ici :
 - 📱 WhatsApp : [Clique Ici](https://wa.me/+243995318754)
