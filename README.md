@@ -5,7 +5,7 @@ Ici, tu trouveras mes citations originales, poèmes et conseils de vie, tous éc
 
 ✍️ Auteur
 
-Eliya1‑Nt‑Officiel (alias Eliya)
+Eliya1‑Nt‑Officiel (alias Eliya Nt)
 
 Toutes les œuvres publiées ici sont protégées par mes droits d’auteur.
 
