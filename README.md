@@ -31,7 +31,7 @@ Il est strictement interdit de :
 Tu veux me poser une question ou me demander l'autorisation d'utiliser un texte ?  
 Tu peux me contacter.
 
-📬 Me contacter
+📬 Me contacter : 
 Si vous souhaitez discuter d'une citation, mieux comprendre son sens, 
 ou simplement échanger autour de mes textes, 
 n'hésitez pas à me contacter ici :
