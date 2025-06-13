@@ -29,7 +29,12 @@ Il est strictement interdit de :
 
 🛡️ Protection : Droit d’auteur automatique (article L111-1 du Code de la propriété intellectuelle – France)
 Tu veux me poser une question ou me demander l'autorisation d'utiliser un texte ?  
-Tu peux me contacter ici :
+Tu peux me contacter.
+
+📬 Me contacter
+Si vous souhaitez discuter d'une citation, mieux comprendre son sens, 
+ou simplement échanger autour de mes textes, 
+n'hésitez pas à me contacter ici :
 - 📱 WhatsApp : [Clique Ici](https://wa.me/+243995318754)
 - 📸 Instagram : [@eliya_nt_offiiel]( https://instagram.com/eliya_nt_officiel)
 - 📘 Facebook : [eliya ntabala octavius]( https://www.facebook.com/eliya.ntabala.octavius3)
