@@ -37,7 +37,7 @@ ou simplement échanger autour de mes textes,
 n'hésitez pas à me contacter ici :
 - 📱 WhatsApp : [Clique Ici](https://wa.me/+243995318754)
 - 📸 Instagram : [@eliya_nt_offiiel]( https://instagram.com/eliya_nt_officiel)
-- 📘 Facebook : [eliya ntabala octavius]( https://www.facebook.com/eliya.ntabala.octavius3)
+- 📘 Facebook : [eliya ntabala chàris]( https://www.facebook.com/eliya.ntabala.octavius3)
 - 📧 Email : [eliyantabala4@email.com]
 
 
