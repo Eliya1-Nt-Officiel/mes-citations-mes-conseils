@@ -25,7 +25,7 @@ Il est strictement interdit de :
 - Les exploiter commercialement sans accord écrit
 
 📅 Date de publication : Juin 2025  
-✍️ Auteur : Eliya1-Nt-Officiel ( vrai nom Eliya Ntabala)
+✍️ Auteur : Eliya1-Nt-Officiel ( vrai nom Eliya Ntabala ou Eliya Nt)
 
 🛡️ Protection : Droit d’auteur automatique (article L111-1 du Code de la propriété intellectuelle – France)
 Tu veux me poser une question ou me demander l'autorisation d'utiliser un texte ?  
