@@ -1,3 +1,15 @@
+---
+
+## 🛡️ Protection des droits d’auteur
+
+© 2025 **Eliya Ntabala (Eliya1-Nt-Officiel)** — Tous droits réservés.  
+Les textes, citations et poèmes publiés ici sont des créations originales protégées par les lois internationales sur le droit d’auteur.  
+Toute reproduction, modification ou redistribution sans autorisation écrite est strictement interdite.
+
+![Licence](https://img.shields.io/badge/Copyright-©%202025%20Eliya1--Nt--Officiel-blue?style=for-the-badge)
+![Protection](https://img.shields.io/badge/Création%20originale-Protégée-brightgreen?style=for-the-badge)
+
+
 ![Nombre de vues](https://komarev.com/ghpvc/?username=Eliya1-Nt-Officiel&color=blue)
 
 ✨ Mes citations, poèmes et conseils
