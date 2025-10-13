@@ -1,4 +1,5 @@
----
+📜 Horodatage public : [Vérifier ici](https://originstamp.com/s/tonlien)
+
 
 ## 🛡️ Protection des droits d’auteur
 
